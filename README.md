@@ -1,2 +1,2 @@
 # School-Performance-vs-CO2-emissions-NW
-Interactive maps featuring circles that denote the average school performance of a town compared to its CO2 emissions, made for the University of Bolton and Bolton Council Hackathon in 2021
+Interactive maps featuring circles that denote the average school performance of a town compared to its CO2 emissions, took 2nd place at the University of Bolton and Bolton Council Hackathon in 2021. https://www.bolton.gov.uk/news/article/1314/climate-change-hackathon-making-a-difference-with-data https://www.uobcomputing.com/2021/11/18/bolton-council-hackathon-2021-data-digging-for-the-local-environment/#comments 
